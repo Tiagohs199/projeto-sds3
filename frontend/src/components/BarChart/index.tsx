@@ -71,7 +71,3 @@ const BarChart = () => {
 }
 
 export default BarChart;
-
-//function round(arg0: number, arg1: number): any {
-  //  throw new Error('Function not implemented.');
-//}
