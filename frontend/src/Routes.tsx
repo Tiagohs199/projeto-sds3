@@ -14,10 +14,6 @@ const Routes = () => {
                     <DashBoard />
                 </Route>
             </Switch>
-
-
-
-
         </BrowserRouter>
 
     );
